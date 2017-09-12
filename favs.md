@@ -1,3 +1,5 @@
 ## Francisco ordaz
 
-- **color:** purple
+- **color:** red
+- **video game*:* The Elder Scrolls
+- **animal:** Wolf
